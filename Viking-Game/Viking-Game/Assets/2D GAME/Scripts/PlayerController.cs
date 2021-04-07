@@ -9,7 +9,6 @@ public class PlayerController : MonoBehaviour
     Animator playerAnimator;
     
     public float moveSpeed = 1f;
-
     public float jumpSpeed = 1f;
     public float jumpFrequency=1f, nextjumpTime;
 
